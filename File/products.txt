@@ -1,0 +1,4 @@
+101;mango;120.0;25;summer;-;-
+102;coca cola;30.0;25;-;soft drink;-
+103;ilish;190.0;16;-;-;river fish
+104;apple;300.0;39;all;-;-

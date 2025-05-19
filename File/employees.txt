@@ -1,0 +1,4 @@
+1002;Neymer;20000.0;Male
+1003;Ronaldo;60000.0;Male
+2526;Messi;100000.0;Male
+1012;kabir;82999.0;Male
